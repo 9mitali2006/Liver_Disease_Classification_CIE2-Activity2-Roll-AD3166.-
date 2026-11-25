@@ -667,7 +667,8 @@ Normal Logistic Regression achieves better Liver Disease recall, while Balanced 
 
 The project also demonstrates how changing the classification threshold influences True
 
-**Submission GitHub ID:** https://github.com/9mitali2006
+**GitHub Submission ID:** [complexiota](https://github.com/complexiota)
+
 
 **Student Repository URL:** https://github.com/9mitali2006/Liver_Disease_Classification_AD3166
 
