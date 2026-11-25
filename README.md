@@ -666,3 +666,15 @@ However, their class-wise performance is different.
 Normal Logistic Regression achieves better Liver Disease recall, while Balanced Logistic Regression significantly improves Non-Liver Disease recall.
 
 The project also demonstrates how changing the classification threshold influences True
+
+**Submission GitHub ID:** https://github.com/9mitali2006
+
+**Student Repository URL:** https://github.com/9mitali2006/Liver_Disease_Classification_AD3166
+
+**Project Name:** Liver Disease Classification Using Logistic Regression
+
+**Repository Visibility:** Public
+
+This repository contains the completed machine learning project, including the Jupyter Notebook, dataset (where redistribution is permitted), project documentation, and supporting files required for academic evaluation.
+
+The repository is maintained by the student for submission and review as part of the academic activity.
